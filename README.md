@@ -7,3 +7,4 @@ Tropical cyclone
 Atmospheric river
 
 [Kaggle Competition Link](https://www.kaggle.com/c/ift3395-6390-weatherevents/overview)
+Placement: 24/99
